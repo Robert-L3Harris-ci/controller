@@ -1,0 +1,4 @@
+variables:
+- team: Robert-L3Harris-ci
+- admin-user: robert-l3harris-admin
+- manager-user: robert-l3harris
